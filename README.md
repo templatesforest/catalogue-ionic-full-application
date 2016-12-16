@@ -1,0 +1,1 @@
+# catalogue-ionic-full-application
